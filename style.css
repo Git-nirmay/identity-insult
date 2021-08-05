@@ -1,0 +1,80 @@
+body {
+    font-family: 'Special Elite', cursive;
+    background-color: darkturquoise;
+    background-size: cover;
+}
+
+.header_div {
+    background-color: darkturquoise;
+    color: springgreen;
+
+}
+
+.header_div img {
+    width: 300px
+}
+
+;
+
+.main_div {
+    background: #ffd2c7;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+}
+
+.main_div label {
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 50px 50px 50px 14px rgba(0, 0, 0, 0.71) inset;
+    -webkit-box-shadow: 50px 50px 50px 14px rgba(0, 0, 0, 0.71) inset;
+    -moz-box-shadow: 50px 50px 50px 14px rgba(0, 0, 0, 0.71) inset;
+}
+
+#camera,
+#result {
+    border: 2px solid white;
+    width: 310px;
+    height: 300px;
+    box-shadow: 50px 50px 50px 14px rgba(0, 0, 0, 0.71) inset;
+    -webkit-box-shadow: 50px 50px 50px 14px rgba(0, 0, 0, 0.71) inset;
+    -moz-box-shadow: 50px 50px 50px 14px rgba(0, 0, 0, 0.71) inset;
+}
+
+.main_div button {
+    width: 310px;
+    font-size: 16px;
+    box-shadow: 50px 50px 50px 14px rgba(0, 0, 0, 0.71) inset;
+    -webkit-box-shadow: 50px 50px 50px 14px rgba(0, 0, 0, 0.71) inset;
+    -moz-box-shadow: 50px 50px 50px 14px rgba(0, 0, 0, 0.71) inset;
+    border: 1px solid;
+}
+
+.footer_div {
+    margin-bottom: 50px;
+}
+
+.footer_div h4 {
+    background: #ffd2c7;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 50px 50px 50px 14px rgba(0, 0, 0, 0.71) inset;
+    -webkit-box-shadow: 50px 50px 50px 14px rgba(0, 0, 0, 0.71) inset;
+    -moz-box-shadow: 50px 50px 50px 14px rgba(0, 0, 0, 0.71) inset;
+}
+
+.footer_div img {
+    width: 70px;
+}
+
+.copy_footer {
+    position: fixed;
+    color:firebrick;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    background-color: darkturquoise;
+    text-align: center;
+}
